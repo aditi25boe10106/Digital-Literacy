@@ -1,0 +1,12 @@
+           Case Study - UPI/Online Payment Fraud
+
+
+The rapid expansion of digital payments in India, especially through platforms like Google Pay, PhonePe, and Paytm, has transformed the way people handle financial transactions. UPI (Unified Payments Interface) enables instant money transfer with ease and convenience. However, this growth has also led to a rise in online payment frauds, where cybercriminals exploit users’ lack of awareness and trust in digital systems.
+
+In one case, Rahul, a 28-year-old working professional, decided to sell his old smartphone through an online marketplace. A fraudster contacted him, posing as a genuine buyer, and agreed to pay ₹15,000 via UPI. The scammer then sent a “collect request” instead of transferring money and convinced Rahul that entering his UPI PIN was necessary to receive the payment. Trusting the buyer, Rahul entered his PIN, which resulted in ₹15,000 being deducted from his bank account.
+
+This fraud occurred due to social engineering, where the scammer manipulated the victim into revealing sensitive information. Many users are unaware that a UPI PIN is only required to send money, not to receive it. Such scams often involve urgency, fake identities, and misleading instructions to confuse victims.
+
+After the incident, Rahul reported the fraud to his bank and filed a complaint with the National Payments Corporation of India and the Cyber Crime Portal India. Despite quick action, recovering the lost money was difficult due to the speed of transactions and lack of immediate safeguards.
+
+This case highlights the importance of digital literacy and awareness. Users must never share their UPI PIN or approve unknown requests. While UPI systems are secure, human error makes them vulnerable. Strengthening awareness and precautionary measures can significantly reduce such fraud cases.
